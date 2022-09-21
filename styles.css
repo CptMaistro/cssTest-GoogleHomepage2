@@ -1,0 +1,71 @@
+.gmail{
+    /* background-color: red; */
+    padding-left: 1600px;
+    padding-top: 10px;
+}
+.bla{
+    background-color: blue;
+}
+.googleIconButtons{
+    /* background-color: red; */
+    padding-left: 640px;
+    padding-top: 100px;
+}
+.searchfield{
+    /* background-color: aqua; */
+    padding-left: 800px;
+
+}
+.googleButton{
+    /* background-color: aqua; */
+    padding-left: 790px;
+}
+.googleSvenska{
+    padding-left: 820px;
+    padding-top: 30px;
+    padding-bottom: 300px;
+}
+li{
+    display: inline;
+}
+input[type=text]{
+    border: 2px solid black;
+}
+.button{
+    /* background-color: #4CAF50; Green */
+    border: 2px solid black;
+    color: black;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+.textSize{
+    font-size: 20px;
+}
+.grey{
+    background-color: grey;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+.bottomTextLeft{
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.bottomTextMiddle1{
+    padding-left: 400px;
+}
+.bottomTextMiddle{
+    padding-left: 570px;
+}
+.bottomTextRight{
+    /* background-color: aqua; */
+    padding-left: 20px;
+}
+.sweden{
+    padding-left: 10px;
+    padding-top: 5px;
+}
